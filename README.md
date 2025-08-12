@@ -3,7 +3,7 @@
 <h3>An aspiring Full-stack Java Developer from India</h3>
 
 - 🔭 **I’m currently working on:** a fully functional e-commerce website
-- 🌱 **I’m currently learning:** Spring Boot & Microservices
+- 🌱 **Currently diving to the depths of:** Spring Boot & Microservices
 - 📫 **How to reach me:** mdmasud170199@gmail.com
 - 😄 **Pronouns:** Masud
 - ⚡ **Fun fact:** Wanderlust | Shutterbug | Engineer
