@@ -1,8 +1,8 @@
 <h1>Hi, I am Khandekar Md Masud</h1>
-<hr>
+
 <h3>An aspiring Full-stack Java Developer from India</h3>
-<hr>
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.masud.112703/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iammasud_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khandekar-md-masud-4012541a6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdmasud170199@gmail.com) 
 
 # 💻 Tech Stack:
